@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dc337f98-ccbd-4e48-af0c-5c77ab8fd0d3" name="recursion" url="http://31.31.198.144">
+        <fileTransfer host="31.31.198.144" port="22" rootFolder="/var/www/u0937257/data" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
